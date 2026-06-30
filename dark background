@@ -1,0 +1,22 @@
+/* Formatting the detected paragraph */
+p.font-claude-response-body {
+  background-color: #602929 !important;
+  display: inline;
+  color: #CD4747 !important;
+}
+
+/* Adds the little warning to the start of the paragraph */
+p.font-claude-response-body::before {
+  content: "[⚠︎]   ";
+  color: #CD4747 !important;
+  font-weight: bold !important;
+}
+
+/* Adds a warning to the title */
+body:has(.userstuff p.font-claude-response-body) h2.title.heading::before {
+  content: "⚠︎ AI ARTIFACT ⚠︎\A\A";
+  white-space: pre;
+  color: red;
+  font-weight: bold;
+  text-decoration: none !important;
+}
