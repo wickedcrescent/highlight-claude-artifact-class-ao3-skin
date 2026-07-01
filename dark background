@@ -2,13 +2,13 @@
 p.font-claude-response-body {
   background-color: #602929 !important;
   display: inline;
-  color: #CD4747 !important;
+  color: #E84343 !important;
 }
 
 /* Adds the little warning to the start of the paragraph */
 p.font-claude-response-body::before {
   content: "[⚠︎]   ";
-  color: #CD4747 !important;
+  color: #E84343 !important;
   font-weight: bold !important;
 }
 
