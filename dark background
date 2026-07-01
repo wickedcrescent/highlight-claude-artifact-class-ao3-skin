@@ -1,7 +1,6 @@
 /* Formatting the detected paragraph */
 p.font-claude-response-body {
   background-color: #602929 !important;
-  display: inline;
   color: #E84343 !important;
 }
 
