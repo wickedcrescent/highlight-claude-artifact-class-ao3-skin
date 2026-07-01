@@ -7,4 +7,4 @@ Useful sites if you want to adjust colours:<br>
 This skin is based loosely off this document: https://drive.google.com/file/d/1YyFKLzunnvVJRDTql5nHJwBb-swxIftn/view.
 I just adjusted how and where it turned red and warned the reader about the artifact. Have fun. Hopefully it helps.
 <br><br>
-Tutorial for how to add the skin: <a href="https://archiveofourown.org/works/87695031">AO3 work with examples (tutorial for light and dark backgrounds are the same).</a>
+Tutorial for how to add the skin: <a href="https://archiveofourown.org/works/87695031">AO3 work with examples</a> (tutorial for light and dark backgrounds are the same).
